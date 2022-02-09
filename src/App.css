@@ -1,0 +1,20 @@
+
+  .header{
+     background-color:black;
+     color: white;
+  }
+  button{
+    height: 90%;
+    width: 10%;
+    font-size: large;
+    border-radius: 12%;
+  }
+  input{
+    height: 90%;
+    width: 30%;
+  }
+  .logout{
+    position:relative;
+    left: 85%;
+    margin-top:45%;
+  }
