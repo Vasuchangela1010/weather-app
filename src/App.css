@@ -2,6 +2,8 @@
   .header{
      background-color:black;
      color: white;
+     text-align: center;
+     
   }
   button{
     height: 90%;
@@ -17,4 +19,15 @@
     position:relative;
     left: 85%;
     margin-top:45%;
+  }
+  form {
+  background-color: lightgrey;
+  width: 700px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  }
+  .details{
+    padding-left: 400px;
   }
